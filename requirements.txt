@@ -208,9 +208,9 @@ pyflakes==2.1.1 \
 pygments==2.5.2 \
     --hash=sha256:2a3fe295e54a20164a9df49c75fa58526d3be48e14aceba6d6b1e8ac0bfd6f1b \
     --hash=sha256:98c8aa5a9f778fcd1026a17361ddaf7330d1b7c62ae97c3bb0ae73e0b9b6b0fe
-pymdown-extensions==6.3 \
-    --hash=sha256:cb879686a586b22292899771f5e5bc3382808e92aa938f71b550ecdea709419f \
-    --hash=sha256:66fae2683c7a1dac53184f7de57f51f8dad73f9ead2f453e94e85096cb811335
+pymdown-extensions==10.0 \
+    --hash=sha256:9a77955e63528c2ee98073a1fb3207c1a45607bc74a34ef21acd098f46c3aa8a \
+    --hash=sha256:e6cbe8ace7d8feda30bc4fd6a21a073893a9a0e90c373e92d69ce5b653051f55
 pyparsing==2.4.6 \
     --hash=sha256:c342dccb5250c08d45fd6f8b4a559613ca603b57498511740e65cd11a2e7dcec \
     --hash=sha256:4c830582a84fb022400b85429791bc551f1f4871c33f23e44f353119e92f969f
